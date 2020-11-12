@@ -1,0 +1,22 @@
+# MARL-papers
+
+- Multiagent cooperation and competition with Deep Reinforcement Learning
+- Learning to Communicate to Solve Riddles with Deep distributed Recurrent Q-Networks
+- Deep Reinforcement Learning from Self-Play in imperfect-information Games
+- Learning to Communicate with Deep Multi-Agent Reinforcement Learning
+- Learning Multiagent Communication with Backpropagation
+- Cooperative Mutli-Agent Control using Deep Reinforcement Learning
+- Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning
+- Multi-agent Reinforcement Learning in Sequential Social Dilemmas
+- Emergence of Grounded Language in Multi-Agent Populations
+- Emergence of Language with Multi-agent Games: Learning to Communicate with Sequence of Symbols
+- Counterfactual Multi-Agent Policy Gradients
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+- Learning with Opponent-Learning Awareness
+- Emergence Complexity via Multi-Agent Competition
+- A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning
+- QMIX: Monotonic Value Function Factorisation for deep Multi-Agent Reinforcement Learning
+- Emergence of Linguistic Communication from Referential Games with Symbolic and Pixel Input
+- Emergence Communication through Negotiation
+- Learning Policy Representations in Multiagent Systems
+- Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems
